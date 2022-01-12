@@ -1,0 +1,5 @@
+username|password  | Role
+madun123    123      kepala cabang
+rozi123     123     accounting
+yanto123    123     kepala_divisi
+joko123     123     umum
