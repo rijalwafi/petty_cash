@@ -19,9 +19,11 @@
 </ul>
 <br>
 <h3>untuk login</h3>
-1. role  | username | password
-2. owner  ridho123	123
-3. staff  rozi123	123
+<ul>
+	<li>1. role  | username | password</li>
+	<li>2. owner  ridho123	123</li>
+	<li>3. staff  rozi123	123</li>
+</ul>
 <h3>Penjelasan</h3>
 1. Website ini sangat masih sederhana, sehingga anda bisa mengembangkannya lagi.
 
